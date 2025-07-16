@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sai Krishna Jakkula
 
-                                  A Passionate Frontend Developer from India
+A Passionate Frontend Developer from India
 
- 🌱 I’m currently learning FullStack Developement
+🌱 I’m currently learning FullStack Developement
 
 
 
